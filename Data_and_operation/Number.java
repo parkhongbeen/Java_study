@@ -9,6 +9,6 @@ public class Number {
 		
 		System.out.println(Math.PI); // 3.14
 		System.out.println(Math.floor(Math.PI)); // 3
-		System.out.println(Math.ceil(Math.PI)); // 올림 4
+		System.out.println(Math.ceil(Math.PI)); // 올Z4
 	}
 }
