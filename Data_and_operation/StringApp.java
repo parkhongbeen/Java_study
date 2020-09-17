@@ -1,13 +1,12 @@
 public class StringApp {
 	public static void main(String[] args) {
-		System.out.println("Hello World"); // String
-		System.out.println('H'); // 작은따옴표: 문자Character
-		System.out.println("H"); // 큰따옴표: 문자
+		// println
+		System.out.println("Hello World");
 		
-		// new line
-		System.out.println("Hello\nWorld");
+		// print
+		System.out.print("Hello World");
 		
-		// escape
+		// \n사용
 		System.out.println("Hello \"World\""); // Hello "World"
 	}
 }
